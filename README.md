@@ -1,5 +1,8 @@
 # Google-Bing-Facebook-Yandex-search-with-directlink
 
 With this Greasmonkey (Mozilla Firefox extension) script you can:
-> search on Google, Bing, Yandex & Facebook without any redirects or encrypted link 
+> search on Google, Bing, Yandex & Facebook without any redirects or encrypted link
+>  
 > see direct link in your search
+>
+> Extension source: https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/
